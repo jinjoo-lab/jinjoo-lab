@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sd_lover)](https://solved.ac/sd_lover)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sd_lover)](https://solved.ac/sd_lover)
 </br>
