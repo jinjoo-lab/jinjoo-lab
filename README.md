@@ -15,3 +15,5 @@ Contact
 Tstory : https://drasgon.tistory.com/
 </br>
 BAEKJOON : https://www.acmicpc.net/user/sd_lover
+</br>
+Velog : https://velog.io/@jinjoo-lab
