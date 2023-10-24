@@ -3,7 +3,6 @@
 > *‘기본이 탄탄하지 않으면 언젠가는 무너진다.’* 기본에 충실하여 차근차근 발전하는 개발자가 되겠습니다.
 > 
 Contact
-- **Phone** : 010-2648-5941
 - **Email** : drasgon@naver.com
 - **Github :** https://github.com/jinjoo-lab
 
