@@ -13,8 +13,8 @@
 
 ## 💻 주요 프로젝트
 
-|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=tukcom2023CD&repo=DragonGuard-JinJin)](https://github.com/tukcom2023CD/DragonGuard-JinJin)|
-|:----:|:----:|
+|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)|
+|:----:|
 |_#STOMP #Resilience4J #RabbitMQ #Redis #JUnit5_|_#Kafka #k8s #GitOps #Redis #Crawling #Blockchain_|
 
 ## 📜 활동 이력
