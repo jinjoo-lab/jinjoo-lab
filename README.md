@@ -19,7 +19,11 @@
 
 ## 💻 스터디
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Data-Structure)](https://github.com/jinjoo-lab/Data-Structure)|
-
+|:----:|
+|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Data-Structure)](https://github.com/jinjoo-lab/Data-Structure)|
+|:----:|
+|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Data-Structure)](https://github.com/jinjoo-lab/Data-Structure)|
+|:----:|
 
 ## 📜 활동 이력
 
