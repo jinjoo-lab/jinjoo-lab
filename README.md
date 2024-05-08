@@ -18,12 +18,9 @@
 |_#STOMP #Resilience4J #RabbitMQ #Redis #JUnit5_|_#Kafka #k8s #GitOps #Redis #Crawling #Blockchain_|
 
 ## 💻 스터디
-|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Data-Structure)](https://github.com/jinjoo-lab/Data-Structure)|
-|:----:|
-|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Data-Structure)](https://github.com/jinjoo-lab/Data-Structure)|
-|:----:|
-|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Data-Structure)](https://github.com/jinjoo-lab/Data-Structure)|
-|:----:|
+|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Data-Structure)](https://github.com/jinjoo-lab/Data-Structure)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Spring-Study)](https://github.com/jinjoo-lab/Spring-Study)|
+|:----:|:----:|
+
 
 ## 📜 활동 이력
 
