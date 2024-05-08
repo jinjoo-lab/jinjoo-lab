@@ -4,7 +4,7 @@
 
 
 기술 스택: `Java`, `Spring`, `Jpa`, `MySQL`, `Redis`, `RabbitMQ`<br>
-관심있는 기술: `Kotlin`, `Kafka`, `Kubernetes`, `Terraform` <br>
+관심있는 기술: `Kotlin`, `Kafka`, `Kubernetes`<br>
 
 
 ## 👋🏻 흐에 ~~ !
