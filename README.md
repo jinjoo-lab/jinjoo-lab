@@ -13,9 +13,9 @@
 
 ## 💻 주요 프로젝트
 
-|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)|
-|:----:|
-|_#STOMP #Resilience4J #RabbitMQ #Redis #JUnit5_|_#Kafka #k8s #GitOps #Redis #Crawling #Blockchain_|
+|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=HongDam-org&repo=TWTW)](https://github.com/HongDam-org/TWTW)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=SSAFY_FINAL_Backend)](https://github.com/jinjoo-lab/SSAFY_FINAL_Backend)|
+|:----:|:----:|
+|_#STOMP #Resilience4J #RabbitMQ #Redis #JUnit5_|_#Kafka #k8s #GitOps #Redis #Crawling #Blockchain_|_#STOMP #Resilience4J #RabbitMQ #Redis #JUnit5_|_#Kafka #k8s #GitOps #Redis #Crawling #Blockchain_|
 
 ## 💻 스터디
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Data-Structure)](https://github.com/jinjoo-lab/Data-Structure)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Spring-Study)](https://github.com/jinjoo-lab/Spring-Study)|
