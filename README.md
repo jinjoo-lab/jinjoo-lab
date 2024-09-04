@@ -21,6 +21,7 @@
 ## 💻 스터디
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Data-Structure)](https://github.com/jinjoo-lab/Data-Structure)|[![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=jinjoo-lab&repo=Spring-Study)](https://github.com/jinjoo-lab/Spring-Study)|
 |:----:|:----:|
+|자료구조 및 알고리즘 스터디|Spring 핵심 기술 스터디|
 
 
 ## 📜 활동 이력
