@@ -32,3 +32,7 @@
 |2024.01 ~ 2024.12|삼성 청년 SW 아카데미 SSAFY|
 |2018.03 ~ 2024.02|한국공학대학교 컴퓨터공학과|
 </div>
+
+## 자격
+
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/340x340/images/2f421d50-7e9c-427e-a49e-37e9458c117f/Microsoft_AzureAdministratorAssociate.png)](https://www.credly.com/badges/F5A99935B3B4A6ED)
